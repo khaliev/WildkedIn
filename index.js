@@ -257,7 +257,7 @@ function createAllHexagones(filter) {
   return hexagones;
 }
 
-// Function search dans la bar de rechercher (Adlan start)
+// Function search dans la barre de recherche (Adlan start)
 
 document.querySelector(".search-input")?.addEventListener("change", () => {
   const filter = document.querySelector(".search-input").value;
