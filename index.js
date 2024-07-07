@@ -67,7 +67,7 @@ const wilderList = [
   ),
   new Wilder(
     "Adlan Khaliev",
-    "J’ai choisi ce métier car il permet de créer des outils qui servent au monde, de travailler à distance, de travailler en tant qu’artisan de façon autonome.",
+    "J’ai choisi ce métier car il permet de créer des outils qui servent au monde, de travailler à distance en tant qu’artisan de façon autonome.",
     "resources/promoWilder/Adlan.jpg",
     "https://github.com/khaliev",
     "https://www.linkedin.com/in/khaliev",
